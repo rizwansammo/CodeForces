@@ -1,3 +1,7 @@
 # ninja log v5
 1	455	7332009259277924	CMakeFiles/CodeForces.dir/helloWorld.cpp.obj	c8326f871f32e732
 456	574	7332009260454424	CodeForces.exe	94cfcef0e4f3e7bd
+3	188	7332019665846795	build.ninja	c6a2b1491ec4ee0d
+4	324	7332018917210082	CMakeFiles/CodeForces.dir/sumOfAB.cpp.obj	2f6c7be80fe48dc1
+1	104	7332019665846795	build.ninja	c6a2b1491ec4ee0d
+3	412	7332019768920874	CMakeFiles/CodeForces.dir/sumOfAB.cpp.obj	2f6c7be80fe48dc1
